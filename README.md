@@ -4,7 +4,7 @@ Genetic variation 6 Acropora tenuis larvae from the Bioproject [PRJDB6484](https
 __Structure:__
 
 1. [Pre-processing](/)
-2. [Variant Calling with bcftools, Freebayes, and GATK](/)
+2. [Variant Calling with bcftools and Freebayes](/)
 4. [Filtering and comparing variants](/)
 5. [Variant Annotation](/)
 
@@ -14,10 +14,10 @@ We are downloading and using the 6 Acropora tenuis larvae genotypes from the Bio
 
 __Required software:__
 
-Quality control:
+Quality control: FASTQC, sickle
 
-Alignment:
+Alignment: bwa, samtools, picard, samblaster, bamtools, igv
 
-Variant Calling:
+Variant Calling: bcftools, freebayes
 
-Other:
+Other: bedtools, tabix, bgzip
