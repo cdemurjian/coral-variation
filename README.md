@@ -3,10 +3,10 @@ Genetic variation 6 Acropora tenuis larvae from the Bioproject [PRJDB6484](https
 
 __Structure:__
 
-1. [Pre-processing](/)
-2. [Variant Calling with bcftools and Freebayes](/)
-4. [Filtering and comparing variants](/)
-5. [Variant Annotation](/)
+1. [Pre-processing](https://github.com/cdemurjian/coral-variation/blob/main/1_Pre_processing.md)
+2. [Variant Calling with bcftools and Freebayes](https://github.com/cdemurjian/coral-variation/blob/main/2_Variant_Calling)
+4. [Filtering and comparing variants](https://github.com/cdemurjian/coral-variation/blob/main/3_Variant_Filtering.md)
+5. [Variant Annotation](https://github.com/cdemurjian/coral-variation/blob/main/4_Variant_Annotation.md)
 
 __Data:__
 
