@@ -1,1 +1,1 @@
-
+This is normally where we would state what our filtered VCF file showed but we were unsuccessful at annotating our filtered VCF file. Unfortunatley, our species Acropora Tenius did not have a snpEff database created. In order to create the database, we would need a GFF file. The GFF file we found did not map back successfully to the reference genome we used, which was also the refrence genome that our 6 species aligned perfectly back too.
